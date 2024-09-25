@@ -8,7 +8,10 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://elearn4.ndhu.edu.tw/moodle/',
+	'https://www.ndhu.edu.tw/',
+	'https://sys.ndhu.edu.tw/AA/CLASS/subjselect/',
+	'https://tewkr.com/',
+	'https://web.ndhu.edu.tw/aa/graduate/Login.aspx',
+	'https://www.facebook.com/ndhu.page/?locale=zh_TW'
 ];
