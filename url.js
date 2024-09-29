@@ -8,10 +8,10 @@
 
 
 const urls = [
-	'https://elearn4.ndhu.edu.tw/moodle/',
-	'https://www.ndhu.edu.tw/',
-	'https://sys.ndhu.edu.tw/AA/CLASS/subjselect/',
-	'https://tewkr.com/',
-	'https://web.ndhu.edu.tw/aa/graduate/Login.aspx',
-	'https://www.facebook.com/ndhu.page/?locale=zh_TW'
+	'https://www.surveycake.com/s/Q2KMo',
+	'https://www.surveycake.com/s/Axeda',
+	'https://www.surveycake.com/s/XgQdM',
+	'https://www.surveycake.com/s/GbBq0',
+	'https://www.surveycake.com/s/9eYYr',
+	'https://www.surveycake.com/s/PXQaw'
 ];
